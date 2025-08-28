@@ -28,7 +28,7 @@ Stock Portfolio Management is a standalone desktop application that helps users 
 
 ---
 
-
+## 📸 Screenshots
 
 ![image alt](https://github.com/gaurav152003/stockapp/blob/a18acfaadc12a5685a5ece9329a092e872bbdb8e/Screenshot%202025-05-19%20203925.png)
 ![image alt](https://github.com/gaurav152003/stockapp/blob/866ab3d9518b9f9c4728623961ac65a6448c0bef/Screenshot%202025-05-19%20203957.png)
